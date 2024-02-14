@@ -1,0 +1,22 @@
+main{
+    width: 95%;
+    background-color: rgba(0, 0, 255, 0.601);
+    margin: 0 auto;
+    border: 1px solid blue;
+}
+.section{
+    background-color: hsl(0, 0, 100%);
+    border: 1px solid blue;
+}
+.sec-a{
+    width: 70%;
+    height: 60%;
+    
+}
+.sec-b{
+    width: 70%;
+    height: 40%;
+    margin-right: 0;
+    border: 1px solid blue;
+}
+
